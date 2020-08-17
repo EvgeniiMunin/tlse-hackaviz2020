@@ -16,4 +16,4 @@ Analysis was made on the following base:
 - Viz: Tableau
 
 # Dashboard preview
-![alt text](https://github.com/EvgeniiMunin/tlse-hackaviz2020.git/blob/master/dashboard_img.PNG)
+![dashboard](https://github.com/EvgeniiMunin/tlse-hackaviz2020/blob/master/dashboard_img.PNG)
