@@ -1,7 +1,7 @@
 # tlse-hackaviz2020
 Annual Data Visualization competition on Geo Data in Occitanie region, France (http://toulouse-dataviz.fr/hackaviz-2020).
 
-The Tableau DashBoard solution and results of the challenge are available by the following link:
+The Tableau Dashboard solution and results of the challenge are available by the following link:
 - dashboard: https://public.tableau.com/profile/evgenii.munin#!/vizhome/hackaviz2020_evgenii_munin/Dashboard1
 - results: http://toulouse-dataviz.fr/resultats-hackaviz-2020
 
@@ -14,3 +14,6 @@ Analysis was made on the following base:
 # Tools
 - Data processing: Python (pandas, geopandas) 
 - Viz: Tableau
+
+# Dashboard preview
+![alt text](https://github.com/EvgeniiMunin/tlse-hackaviz2020.git/blob/master/dashboard_img.PNG)
